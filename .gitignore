@@ -94,3 +94,5 @@ target/
 data/*/*
 models/*
 !.gitkeep
+
+notebooks/tmp
