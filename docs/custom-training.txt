@@ -1,0 +1,27 @@
+## Google cloud Comunity content
+https://github.com/GoogleCloudPlatform/vertex-ai-samples/tree/main/community-content
+
+## blog Example
+https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai 
+
+## PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI
+https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai
+
+## Sample model
+https://github.com/GoogleCloudPlatform/cloudml-samples/blob/main/pytorch/containers/quickstart/mnist/trainer/mnist.py
+
+## Crea una aplicación de entrenamiento de Python para un contenedor previamente compilado
+https://cloud.google.com/vertex-ai/docs/training/create-python-pre-built-container?hl=es-419
+
+## Sample custom container
+https://cloud.google.com/ai-platform/training/docs/train-ml-model-custom-containers?hl=es-419
+
+https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/pipelines/google_cloud_pipeline_components_automl_images.ipynb
+https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/community-content/pytorch_text_classification_using_vertex_sdk_and_gcloud/pytorch-text-classification-vertex-ai-pipelines.ipynb
+
+
+# Predictor with torch serve
+https://github.com/GoogleCloudPlatform/vertex-ai-samples/tree/1e226a3419607b01718110f1c94ddedf3df6d325/community-content/pytorch_text_classification_using_vertex_sdk_and_gcloud/predictor
+
+#  Deploying a PyTorch Text Classification Model on Vertex AI
+https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/1e226a3419607b01718110f1c94ddedf3df6d325/community-content/pytorch_text_classification_using_vertex_sdk_and_gcloud/pytorch-text-classification-vertex-ai-pipelines.ipynb
